@@ -3,36 +3,36 @@
 ## Tech Stack
 aim97/github-slideshow is built on the following main stack:
 
-- [Chartio](https://chartio.com) – Business Intelligence
+- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- [D](http://dlang.org/) – Languages
+- [Eve](http://programming.witheve.com/) – Languages
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- [Python](https://www.python.org) – Languages
+- [Ruby](https://www.ruby-lang.org) – Languages
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [C3.js](http://c3js.org/) – Charting Libraries
+- [D3.js](http://d3js.org/) – Charting Libraries
+- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- [Socket.IO](http://socket.io/) – Realtime Backend / API
+- [ent](https://entgo.io/) – Object Relational Mapper (ORM)
 - [GitHub](https://github.com/) – Code Collaboration & Version Control
 - [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- [Ruby](https://www.ruby-lang.org) – Languages
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- [Socket.IO](http://socket.io/) – Realtime Backend / API
-- [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [QUnit](http://qunitjs.com/) – Javascript Testing Framework
-- [D3.js](http://d3js.org/) – Charting Libraries
-- [C3.js](http://c3js.org/) – Charting Libraries
 - [JSHint](http://www.jshint.com/about/) – Code Review
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [D](http://dlang.org/) – Languages
-- [Gmail](https://mail.google.com) – Email Services
-- [OpenLayers](http://openlayers.org/) – Mapping APIs
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- [Eve](http://programming.witheve.com/) – Languages
-- [hub](http://hub.github.com/) – Git Tools
-- [Typ](https://www.typ-set.com/) – File Conversion
-- [ent](https://entgo.io/) – Object Relational Mapper (ORM)
-- [Descript](https://www.descript.com/) – Video Marketing and Analytics
-- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
-- [Try](https://github.com/binpash/try) – Shell Utilities
+- [QUnit](http://qunitjs.com/) – Javascript Testing Framework
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
+- [hub](http://hub.github.com/) – Git Tools
+- [Chartio](https://chartio.com) – Business Intelligence
+- [Descript](https://www.descript.com/) – Video Marketing and Analytics
+- [Gmail](https://mail.google.com) – Email Services
+- [Typ](https://www.typ-set.com/) – File Conversion
+- [OpenLayers](http://openlayers.org/) – Mapping APIs
+- [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Try](https://github.com/binpash/try) – Shell Utilities
+- [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -42,36 +42,36 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 aim97/github-slideshow is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/5985/qbJoNuap.png' alt='Eve'/> [Eve](http://programming.witheve.com/) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C3.js'/> [C3.js](http://c3js.org/) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg' alt='D3.js'/> [D3.js](http://d3js.org/) – Charting Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Object Relational Mapper (ORM)
 - <img width='25' height='25' src='https://img.stackshare.io/service/27/default_869c34d29acc794d60ecdd5d2b5bfc042a80a4ec.jpg' alt='GitHub'/> [GitHub](https://github.com/) – Code Collaboration & Version Control
 - <img width='25' height='25' src='https://img.stackshare.io/service/845/falgg2jybmhgk16y62lr.png' alt='Grunt'/> [Grunt](http://gruntjs.com/) – JS Build Tools / JS Task Runners
-- <img width='25' height='25' src='https://img.stackshare.io/service/989/ruby.png' alt='Ruby'/> [Ruby](https://www.ruby-lang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C lang'/> [C lang](http://en.wikipedia.org/wiki/C_(programming_language)) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1142/197655.png' alt='Mustache'/> [Mustache](http://mustache.github.io/) – Templating Languages & Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/1163/hashtag.png' alt='ExpressJS'/> [ExpressJS](http://expressjs.com/) – Microframeworks (Backend)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1171/jCR2zNJV.png' alt='Sass'/> [Sass](http://sass-lang.com/) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png' alt='QUnit'/> [QUnit](http://qunitjs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/1491/HgKolWB5_400x400.jpg' alt='D3.js'/> [D3.js](http://d3js.org/) – Charting Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='C3.js'/> [C3.js](http://c3js.org/) – Charting Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1945/mzh2bRes_400x400.png' alt='JSHint'/> [JSHint](http://www.jshint.com/about/) – Code Review
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/3117/d-5.png' alt='D'/> [D](http://dlang.org/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg' alt='Gmail'/> [Gmail](https://mail.google.com) – Email Services
-- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/5985/qbJoNuap.png' alt='Eve'/> [Eve](http://programming.witheve.com/) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'/> [Typ](https://www.typ-set.com/) – File Conversion
-- <img width='25' height='25' src='https://img.stackshare.io/service/21146/default_3b393819f74c4cb10f98fa9e683fa28cf6cc85f5.png' alt='ent'/> [ent](https://entgo.io/) – Object Relational Mapper (ORM)
-- <img width='25' height='25' src='https://img.stackshare.io/service/21344/default_6f7cae8b4ddb7a7b52b07db55f14a397f7953656.jpg' alt='Descript'/> [Descript](https://www.descript.com/) – Video Marketing and Analytics
-- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png' alt='Try'/> [Try](https://github.com/binpash/try) – Shell Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png' alt='QUnit'/> [QUnit](http://qunitjs.com/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='hub'/> [hub](http://hub.github.com/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/9/TtrFaQ3j_400x400.png' alt='Chartio'/> [Chartio](https://chartio.com) – Business Intelligence
+- <img width='25' height='25' src='https://img.stackshare.io/service/21344/default_6f7cae8b4ddb7a7b52b07db55f14a397f7953656.jpg' alt='Descript'/> [Descript](https://www.descript.com/) – Video Marketing and Analytics
+- <img width='25' height='25' src='https://img.stackshare.io/service/3167/default_2d280843054d533c0a56c573c2e47e2cc1105a88.jpg' alt='Gmail'/> [Gmail](https://mail.google.com) – Email Services
+- <img width='25' height='25' src='https://img.stackshare.io/service/11914/typ.png' alt='Typ'/> [Typ](https://www.typ-set.com/) – File Conversion
+- <img width='25' height='25' src='https://img.stackshare.io/service/3208/397ce8027eb036960f00dd5153d41993.png' alt='OpenLayers'/> [OpenLayers](http://openlayers.org/) – Mapping APIs
+- <img width='25' height='25' src='https://img.stackshare.io/service/4697/default_2d5a1d7c5eb520cdeb7db120e767345004a1d0d4.png' alt='Q'/> [Q](https://github.com/kriskowal/q) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/101825/default_fee6db27033c9348cbd52a828bd0a3b0776c3ed1.png' alt='Try'/> [Try](https://github.com/binpash/try) – Shell Utilities
+- <img width='25' height='25' src='https://img.stackshare.io/service/101756/default_4f2991cba3ec7fdd1cc87de69f4868157b0f2001.png' alt='Vercel AI SDK'/> [Vercel AI SDK](https://sdk.vercel.ai/docs) – Large Language Model Tools
 
 Full tech stack [here](/techstack.md)
 
@@ -82,7 +82,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [aim97/github-slideshow](https://github.com/aim97/github-slideshow)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|95<br/>Tools used|01/23/24 <br/>Report generated|
+|95<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
